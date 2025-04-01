@@ -1,0 +1,6 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://dely2xgpfae81"]
+
+[ext_resource type="FontFile" uid="uid://boo0qfykmn1bh" path="res://fonts/oubliettescrawl.ttf" id="1_48ai7"]
+
+[resource]
+font = ExtResource("1_48ai7")
